@@ -76,7 +76,7 @@
     "jquery": "3.1.1",
     "jquery-datetimepicker": "^2.5.4",
     "jscolor": "EastDesire/jscolor",
-    "jszip": "3.1.5",
+    "jszip": "3.8.0",
     "knockout": "3.4.0",
     "konva": "1.6.8",
     "magic-wand-js": "1.0.0",
